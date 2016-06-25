@@ -1,5 +1,7 @@
 Source used :- https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
 
+*Learn Stuff:-*
+
 * Classes
     * object
 
@@ -17,4 +19,4 @@ Source used :- https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-
 
 * Abstract classes
 
-* Usage of inhreritance
+* Usage of inheritance
